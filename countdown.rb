@@ -1,4 +1,4 @@
-number of second(s)
+number
 
 def countdown
 end
