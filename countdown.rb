@@ -1,4 +1,4 @@
-number = 0
+number = 11
 while number > 0
 number -= 1
 puts "#{number} SECOND(S)!"
