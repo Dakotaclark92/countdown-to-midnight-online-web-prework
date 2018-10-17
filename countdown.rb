@@ -1,4 +1,3 @@
-def countdown
   number = 11
   while number > 0
   number -= 1
@@ -6,3 +5,4 @@ def countdown
 end
 puts "HAPPY NEW YEAR!"
 end
+def countdown
